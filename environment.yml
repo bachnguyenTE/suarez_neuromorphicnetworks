@@ -10,7 +10,7 @@ dependencies:
   - seaborn
   - pathlib
   - scikit-learn
-  - statsmodel
+  - statsmodels
   - networkx
   - MDP
   - pip:
