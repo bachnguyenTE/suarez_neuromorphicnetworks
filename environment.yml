@@ -3,10 +3,10 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python==3.10
-  - numpy==1.21
+  - python=3.10
+  - numpy=1.21
   - pandas
-  - scipy
+  - scipy=1.10
   - seaborn
   - pathlib
   - scikit-learn
