@@ -14,6 +14,7 @@ dependencies:
   - statsmodels
   - networkx
   - MDP
+  - ipykernel
   - pip:
     - netneurotools
     - tqdm
